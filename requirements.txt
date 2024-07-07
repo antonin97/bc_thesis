@@ -1,0 +1,17 @@
+copy
+csv
+datetime
+keras
+math
+matplotlib
+numpy
+os
+pandas
+pickle
+random
+regex
+requests
+scipy
+tensorflow
+unidecode
+jupyter
