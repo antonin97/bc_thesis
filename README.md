@@ -1,8 +1,6 @@
 # Running the code locally in the Jupyter Notebook Environment
 
-To set up the environment and install the necessary dependencies for running the Jupyter notebooks, follow these steps:
-
-## Installation
+To set up the environment and install the necessary dependencies for running the Jupyter notebooks locally, follow these steps:
 
 1. **Create a virtual environment (optional but recommended)**:
    ```sh
