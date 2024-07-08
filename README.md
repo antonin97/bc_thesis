@@ -8,6 +8,7 @@ To set up the environment and install the necessary dependencies for running the
    ```
 
 2. **Activate the virtual environment**:
+   must be run as administrator
    ```sh
    .\venv\Scripts\activate
    ```
@@ -23,3 +24,6 @@ To set up the environment and install the necessary dependencies for running the
    ```
 
 5. **Inside the Jupyter Notebook run Local environment part, NOT the Google Colab environment part**
+
+When downloading the data from the GitHub, keras_metadata.pb is sometimes corrupted in some models.
+If that is the case, don't hesitate to contact me on a.martykan@gmail.com
